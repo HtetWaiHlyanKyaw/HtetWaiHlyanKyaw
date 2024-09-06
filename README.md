@@ -30,9 +30,9 @@ My goal is to contribute to open educational platforms and communities, helping 
 <br>
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HtetWaiHlyanKyaw&layout=compact&theme=radical" alt="Most Used Languages" height="200" style="margin: 5px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HtetWaiHlyanKyaw&layout=compact&theme=radical" alt="Most Used Languages" height="150" style="margin: 5px;"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HtetWaiHlyanKyaw&theme=radical" alt="Streak Stats" height="200" style="margin: 5px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HtetWaiHlyanKyaw&theme=radical" alt="Streak Stats" height="150" style="margin: 5px;"/>
 </a>
 </div>
