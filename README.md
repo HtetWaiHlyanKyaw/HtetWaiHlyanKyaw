@@ -30,13 +30,13 @@ My goal is to contribute to open educational platforms and communities, helping 
 <br>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HtetWaiHlyanKyaw&layout=compact&theme=radical" alt="Most Used Languages" height="100" style="margin: 5px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HtetWaiHlyanKyaw&layout=compact&theme=radical" alt="Most Used Languages" height="120" style="margin: 5px;" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HtetWaiHlyanKyaw&theme=radical" alt="Streak Stats" height="100" style="margin: 5px;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HtetWaiHlyanKyaw&theme=radical" alt="Streak Stats" height="120" style="margin: 5px;" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=HtetWaiHlyanKyaw&show_icons=true&theme=radical" alt="GitHub Stats" height="100" style="margin: 5px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=HtetWaiHlyanKyaw&show_icons=true&theme=radical" alt="GitHub Stats" height="120" style="margin: 5px;" />
   </a>
 </div>
 
