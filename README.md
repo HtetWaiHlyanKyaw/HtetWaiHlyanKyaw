@@ -28,7 +28,7 @@ My goal is to contribute to open educational platforms and communities, helping 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin: 5px;"/> 
 </p>
 <br>
-<div>
+<div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HtetWaiHlyanKyaw&layout=compact&theme=radical" alt="Most Used Languages" height="150" style="margin: 5px;"/>
 </a>
