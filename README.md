@@ -1,6 +1,6 @@
 ## Hello, there! I'm Htet Wai Hlyan Kyaw 🐓  
 
-- 💻 I'm a mobile developer specializing with **Flutter and Dart**.  
+- 💻 I'm a mobile developer specializing in **Flutter & Dart**.  
 
 - 🎯 I’m aiming to advance expertise through higher education in **Software Engineering**.  
 
